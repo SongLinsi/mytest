@@ -3,5 +3,7 @@ public class my(){
 
 
        system.out.print("¹ş¹ş¹ş");
+       system.out.print("ÎûÎûÎûÎû");
+	   
 
 }
