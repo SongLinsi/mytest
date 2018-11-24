@@ -1,3 +1,4 @@
 public class my(){
 	private string abc;
+	private string my1;
 }
