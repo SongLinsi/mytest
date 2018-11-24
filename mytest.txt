@@ -1,9 +1,6 @@
 public class my(){
-	private string abc;
 
-
-       system.out.print("¹ş¹ş¹ş");
-       system.out.print("ÎûÎûÎûÎû");
-	   
-
+	 private string abc;
+     system.out.print("¹ş¹ş¹ş");
+    
 }
