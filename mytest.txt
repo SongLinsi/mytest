@@ -1,3 +1,5 @@
 public class my(){
 	private string abc;
+
+       system.out.print("¹þ¹þ¹þ");
 }
