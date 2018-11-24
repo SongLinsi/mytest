@@ -4,6 +4,4 @@ public class my(){
 
        system.out.print("¹þ¹þ¹þ");
 
-	private string my1;
-
 }
